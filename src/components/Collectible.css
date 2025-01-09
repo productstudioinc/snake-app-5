@@ -1,0 +1,7 @@
+.collectible {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  background-color: #FFEB3B;
+  border-radius: 50%;
+}
